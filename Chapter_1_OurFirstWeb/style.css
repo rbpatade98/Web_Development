@@ -1,0 +1,17 @@
+#first{
+        
+    background: rgb(252, 23, 23);
+    color: rgb(7, 6, 6);
+}
+#secound{
+    background-color: rgb(250, 67, 67);
+    color: rgb(10, 7, 7);
+}
+.red{
+    background-color: rgb(255, 159, 164);
+    color: #000;
+}
+.bg-blue{
+    background-color: rgb(248, 218, 218);
+    color: rgb(8, 3, 3);
+}
